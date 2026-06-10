@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+logs/
+.venv/
+venv/
+node_modules/
+dist/
+.coverage/
+.vite/
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
