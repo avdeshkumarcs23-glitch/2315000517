@@ -1,0 +1,5 @@
+{
+  "name": "notification-app-backend",
+  "private": true,
+  "type": "module"
+}
