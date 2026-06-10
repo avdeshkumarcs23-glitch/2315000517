@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "rootDir": "..",
+    "skipLibCheck": true,
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "strict": true,
+    "noEmit": true,
+    "types": ["node"]
+  },
+  "include": [
+    "vite.config.ts",
+    "server/**/*.ts",
+    "../logging-middleware/src/token-manager.ts"
+  ]
+}
